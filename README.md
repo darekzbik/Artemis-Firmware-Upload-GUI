@@ -125,8 +125,3 @@ In the applications github repo, an example *Blink.bin* firmware file is include
 * the Green LED on the [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170)
 * the STAT LED on the [OpenLog Artemis](https://www.sparkfun.com/products/15846)
 * the D19 and GNSS LEDs on the [Artemis Global Tracker](https://www.sparkfun.com/products/16469)
-
-
-
-
-
